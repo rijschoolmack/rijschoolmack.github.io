@@ -3887,8 +3887,8 @@ ul.elementor-icon-list-items.elementor-inline-items .elementor-inline-item {
     --n-tabs-title-color-hover: #fff;
     --n-tabs-title-color-active: #fff;
     --n-tabs-title-background-color: #f1f3f5;
-    --n-tabs-title-background-color-hover: var(--e-global-color-accent, var(--n-tabs-color-accent-fallback));
-    --n-tabs-title-background-color-active: var(--e-global-color-accent, var(--n-tabs-color-accent-fallback));
+    --n-tabs-title-background-color-hover: #39443b;
+    --n-tabs-title-background-color-active: #39443b;
     --n-tabs-title-width: initial;
     --n-tabs-title-height: initial;
     --n-tabs-title-font-size: 1rem;
