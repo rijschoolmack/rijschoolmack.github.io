@@ -3,3 +3,4 @@ Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
 Sitemap: https://www.autorijschoolmack.nl/wp-sitemap.xml
+google4d3b11cca605177f.html
